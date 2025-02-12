@@ -1,0 +1,25 @@
+/* Colores */
+#p1 {
+    font-size: 24px;
+    color: #ff0101ce;
+}
+#p2 {
+    font-size: 24px;
+    color: rgba(255, 0, 0, 0.842);
+}
+#p3 {
+    font-size: 24px;
+    color: rgba(255, 0, 0, 0.884);
+}
+#p4 {
+    font-size: 24px;
+    color: hsla(0, 100%, 50%, 0.89);
+}
+#p5 {
+    font-size: 24px;
+    color: hsla(0, 100%, 50%, 0.932);
+}
+#p6 {
+    font-size: 24px;
+    color:rgba(128, 0, 0, 0.815);
+}
